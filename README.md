@@ -29,3 +29,20 @@ data input → computation → storage → reporting.
 ---
 
 ## 📁 Project Structure
+---
+
+## ▶️ How to Run
+1. Open the solution in **Visual Studio**
+2. Restore NuGet packages
+3. Build and run the project
+4. Create a sample consumption session
+5. Export PDF or Excel reports
+
+---
+
+## 🚀 Future Improvements
+- Advanced forecasting models
+- Data visualization (charts and trends)
+- User-configurable tariffs
+- Integration with real sensor data
+
