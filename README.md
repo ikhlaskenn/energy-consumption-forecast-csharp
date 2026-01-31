@@ -1,5 +1,6 @@
 # Energy Consumption Forecasting Tool (C#)
 
+
 A C# application designed to analyze and forecast household energy consumption using simulated data.  
 The application stores consumption sessions in an SQLite database and generates detailed PDF and Excel reports.
 
